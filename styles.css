@@ -27,8 +27,7 @@ body {
 }
 
 header {
-  background-color: var(--color-gray);
-  color: var(--color-white);
+  color: black;
   padding: 1rem 0;
 }
 
@@ -54,9 +53,9 @@ nav ul li {
 }
 
 nav ul li a {
-  color: var(--color-white);
   text-decoration: none;
   transition: color 0.3s ease;
+  color: black;
 }
 
 nav ul li a:hover {
